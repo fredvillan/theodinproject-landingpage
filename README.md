@@ -6,13 +6,9 @@ Odin Landing Page
 This is my code for the Landing Page project in The Odin Project Foundations course.
 Project Details
 
-The Odin Project provided a webpage design that I needed to clone using HTML and CSS for the desktop. They also provided a style guide for colors and font sizes. The point of this assignment is to create something from scratch and getting various elements in more or less the right position relative to the rest.
-Skills Learned
+The Odin Project provided a webpage design that I needed to clone using HTML and CSS. I've used Google whenever I got stuck with styling and doing the exercise, coded it from 0 to the last line of codes.
 
-    Coming more comfortable with the CSS Flexbox model, especially justify-content and align-item rules
-    Continuing to practice Git and Github project management
-    Taking someone else's design and using HTML/CSS to make it happen
-    Working on a project over multiple days and focusing on certain sections only
+PS: If anyone can check and give feedback on how my coding can be improved, please let me know. TIA :)
     
 
 Here's what the exercise should look like:
