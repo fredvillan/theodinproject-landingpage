@@ -9,6 +9,8 @@ Project Details
 The Odin Project provided a webpage design that I needed to clone using HTML and CSS. I've used Google whenever I got stuck with styling and doing the exercise, coded it from 0 to the last line of codes.
 
 PS: If anyone can check and give feedback on how my coding can be improved, please let me know. TIA :)
+
+Live Site/Preview link: https://fredvillan.github.io/theodinproject-landingpage/
     
 
 Here's what the exercise should look like:
